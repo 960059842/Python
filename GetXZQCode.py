@@ -99,5 +99,4 @@ def main():
 
 if __name__=='__main__':
     print('获取县以上行政区划代码')
-
     main()
